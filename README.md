@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:fca311&height=180&section=header&text=Tunay%20Ar%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20%C2%B7%20METU%20NCC&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:7c3aed&height=180&section=header&text=Tunay%20Ar%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20%C2%B7%20METU%20NCC%20%C2%B7%20Reality%20is%20a%20consensus&descSize=16&descAlignY=58" width="100%"/>
 
 </div>
 
