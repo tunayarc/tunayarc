@@ -18,6 +18,6 @@ I'm equally drawn to hardware, and the two meet in places I'd like to work on: q
 - **Embedded:** Arduino · Raspberry Pi · ESP32 · Linux
 - **Documentation:** LaTeX · Git
 
-Outside engineering, I'm into tabletop role-playing games, board games, video games, traveling, food and cocktails. I'm also part of the Fantastic Fiction Society at METU NCC, where we bring fantasy and sci-fi fans together.
+Outside engineering, I'm into tabletop role-playing games, board games, video games, films, traveling, food and cocktails. I'm also part of the Fantastic Fiction Society at METU NCC, where we bring fantasy and sci-fi fans together.
 
 [LinkedIn](https://www.linkedin.com/in/tunayarc/) · [Email](mailto:tunayarc04@gmail.com)
