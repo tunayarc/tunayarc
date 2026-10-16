@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Tunay
 
-<!--
-**tunayarc/tunayarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Electronics Engineering student at **METU Northern Cyprus Campus**.
+I'm drawn to the *why* behind circuits: how one operator-based foundation ties together DC, AC and transient analysis, signals and control.
+My long-term goal is hardware, from high-performance processors to components for quantum computing.
 
-Here are some ideas to get you started:
+**Projects**
+- [Water Level Indicator](https://github.com/tunayarc/water-level-indicator): six-level discrete BJT design, simulated in LTspice, built and bench-tested
+- [NMOS Layout](https://github.com/tunayarc/nmos-layout): an n-channel MOSFET drawn layer by layer in SiliWiz
+- [Circuits and Systems](https://github.com/tunayarc/circuits-and-systems): a book in progress on an operator-based approach to circuit theory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** LTspice · MATLAB · SiliWiz · C · Python · LaTeX · Arduino
+
+[LinkedIn](https://www.linkedin.com/in/tunay-ar%C4%B1c%C4%B1-52747a295/)
