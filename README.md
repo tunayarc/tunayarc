@@ -2,7 +2,7 @@
 
 </div>
   
-<img src="banner.svg" width="100%"/>
+<img src="banner-umbra.svg" width="100%"/>
 
 </div>
 
@@ -55,6 +55,6 @@ Once an agent of Iteration X, now an Etherite: I left the Technocracy's perfect 
 
 </div>
 
-<img src="footer.svg" width="100%"/>
+<img src="footer-umbra.svg" width="100%"/>
 
 </div>
