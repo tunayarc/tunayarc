@@ -58,4 +58,6 @@ I'm into tabletop role-playing games, board games, video games, traveling, food 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tunayarc/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunayarc04@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1a0b2e&height=110&section=footer&text=Beware%20of%20Paradox&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%"/>
+
 </div>
