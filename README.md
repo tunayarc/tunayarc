@@ -42,9 +42,9 @@ My other path is hardware, the Sphere of Forces made physical. The two meet wher
 
 </div>
 
-### Beyond Engineering
+### Beyond the Spellbook
 
-I'm into tabletop role-playing games, board games, video games, traveling, food and cocktails. I'm also part of the Fantastic Fiction Society at METU NCC, where we bring fantasy and sci-fi fans together.
+When I'm not casting equations, I'm rolling d10s in tabletop role-playing games, playing board games and video games, traveling, and hunting down good food and cocktails. At METU NCC, I'm part of the Fantastic Fiction Society, a small Chantry where fantasy and sci-fi fans gather.
 
 <div align="center">
 
