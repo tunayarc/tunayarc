@@ -7,11 +7,17 @@ That foundation points me toward **learning-based control**: systems that keep l
 
 I'm equally drawn to hardware, and the two meet in places I'd like to work on: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
 
-**Projects**
-- [Water Level Indicator](https://github.com/tunayarc/water-level-indicator): six-level discrete BJT design, simulated in LTspice, built and bench-tested
-- [NMOS Layout](https://github.com/tunayarc/nmos-layout): an n-channel MOSFET drawn layer by layer in SiliWiz
-- [Circuits and Systems](https://github.com/tunayarc/circuits-and-systems): a book in progress on an operator-based approach to circuit theory
+**Currently**
+- Studying signals and systems, and probability and random variables
+- Building a Monte Carlo simulation project on probabilistic computing (p-bits)
+- Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory
 
-**Tools:** LTspice · MATLAB · SiliWiz · C · Python · LaTeX · Arduino
+**Tools**
+- **Circuits:** LTspice · SiliWiz · breadboard prototyping · bench testing
+- **Programming:** MATLAB · Python · C
+- **Embedded:** Arduino · Raspberry Pi · ESP32 · Linux
+- **Documentation:** LaTeX · Git
 
-[LinkedIn](https://www.linkedin.com/in/tunay-ar%C4%B1c%C4%B1-52747a295/)
+Outside engineering, I'm Vice President of the Fantastic Fiction Society at METU NCC.
+
+[LinkedIn](https://www.linkedin.com/in/tunayarc/) · [Email](mailto:tunayarc04@gmail.com)
