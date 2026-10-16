@@ -1,23 +1,19 @@
 <div align="center">
-
-</div>
-  
-<img src="banner-umbra.svg" width="100%"/>
-
+  <img src="banner-umbra.svg" width="100%"/>
 </div>
 
-### About Me
+### Field Notes
 
-I'm drawn to the *why* behind circuits. To me, one operator-based foundation is the true paradigm beneath DC, AC and transient analysis, signals and control: one theory, revealed in different forms.
+I'm drawn to the *why* behind circuits. Look closely and DC, AC and transient analysis, signals and control turn out to be one theory wearing different clothes: a single operator, read in different ways. The textbooks teach them as separate subjects. I suspect that is not an accident.
 
-That paradigm points me toward **learning-based control**: systems that keep reshaping their own laws from data while remaining provably stable and safe. It joins two traditions, classical control theory, which guarantees stability and robustness from a model, and intelligent control, which learns the system when no model exists. Science that dares to improvise, without ever inviting Paradox.
+That theory points me toward **learning-based control**: systems that rewrite their own rules from data while remaining provably stable and safe. Classical control theory guarantees stability and robustness from a model; intelligent control learns the system when no model exists. Joining the two is how you let a machine improvise without the world noticing that anything has changed. Paradox, after all, only punishes what it can see.
 
-My other path is hardware, the Sphere of Forces made physical. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
+My other path is hardware, where Forces are given a body. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips. Some would call these engineering problems. They are, mostly.
 
 **Currently**
-- Studying signals and systems, and probability and random variables (the Sphere of Entropy, essentially)
-- Building a Monte Carlo simulation project on probabilistic computing (p-bits)
-- Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory
+- Studying signals and systems, and probability and random variables (the Sphere of Entropy, though the syllabus calls it something else)
+- Building a Monte Carlo simulation project on probabilistic computing (p-bits), where noise is not an error but a resource
+- Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory, in plain sight
 
 ### Tools
 
@@ -42,18 +38,16 @@ My other path is hardware, the Sphere of Forces made physical. The two meet wher
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Outside the Laboratory
+### Off the Record
 
-When I'm not chasing a theory, I'm rolling d10s in tabletop role-playing games, playing board games and video games, traveling, and hunting down good food and cocktails. At METU NCC, I'm part of the Fantastic Fiction Society, a small Chantry where fantasy and sci-fi fans gather.
+When I'm not chasing a theory, I'm rolling d10s in tabletop role-playing games, playing board games and video games, traveling, and hunting down good food and cocktails. At METU NCC, I'm part of the Fantastic Fiction Society, a small Chantry where fantasy and sci-fi fans gather. We only talk about fiction. Officially.
 
-Once an agent of Iteration X, now an Etherite: I left the Technocracy's perfect machines for a science that still asks *why*.
+I used to chart the dark between the stars for people who wanted every map finished. I left when I saw which regions they refused to draw. These days I keep my instruments tuned to a medium the textbooks stopped mentioning in 1887.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tunayarc/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunayarc04@gmail.com)
-
-</div>
 
 <img src="footer-umbra.svg" width="100%"/>
 
