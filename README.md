@@ -1,6 +1,11 @@
-### Hi, I'm Tunay
+<div align="center">
 
-Electrical and Electronics Engineering student at **METU Northern Cyprus Campus**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:fca311&height=180&section=header&text=Tunay%20Ar%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20%C2%B7%20METU%20NCC&descSize=16&descAlignY=58" width="100%"/>
+
+</div>
+
+### About Me
+
 I'm drawn to the *why* behind circuits: how one operator-based foundation ties together DC, AC and transient analysis, signals and control.
 
 That foundation points me toward **learning-based control**: systems that keep learning from data while remaining provably stable and safe. It joins two legs, classical control theory, which guarantees stability and robustness from a model, and intelligent control, which learns the system when no model exists.
@@ -12,12 +17,45 @@ I'm equally drawn to hardware, and the two meet in places I'd like to work on: q
 - Building a Monte Carlo simulation project on probabilistic computing (p-bits)
 - Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory
 
-**Tools**
-- **Circuits:** LTspice · SiliWiz · breadboard prototyping · bench testing
-- **Programming:** MATLAB · Python · C
-- **Embedded:** Arduino · Raspberry Pi · ESP32 · Linux
-- **Documentation:** LaTeX · Git
+### Tools
 
-Outside engineering, I'm into tabletop role-playing games, board games, video games, films, traveling, food and cocktails. I'm also part of the Fantastic Fiction Society at METU NCC, where we bring fantasy and sci-fi fans together.
+**Circuits**<br>
+![LTspice](https://img.shields.io/badge/LTspice-1F4E79?style=flat-square)
+![SiliWiz](https://img.shields.io/badge/SiliWiz-5B2C83?style=flat-square)
+![Breadboard prototyping](https://img.shields.io/badge/Breadboard%20prototyping-2E7D32?style=flat-square)
+![Bench testing](https://img.shields.io/badge/Bench%20testing-6D4C41?style=flat-square)
 
-[LinkedIn](https://www.linkedin.com/in/tunayarc/) · [Email](mailto:tunayarc04@gmail.com)
+**Programming**<br>
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Embedded**<br>
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Workflow**<br>
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tunayarc&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=tunayarc&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+### Beyond Engineering
+
+I'm into tabletop role-playing games, board games, video games, traveling, food and cocktails. I'm also part of the Fantastic Fiction Society at METU NCC, where we bring fantasy and sci-fi fans together.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tunayarc/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunayarc04@gmail.com)
+
+</div>
