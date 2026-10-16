@@ -4,7 +4,7 @@
 
 ### Field Notes
 
-I'm drawn to the *why* behind circuits. Look closely and DC, AC and transient analysis, signals and control turn out to be one theory wearing different clothes: a single operator, read in different ways. The textbooks teach them as separate subjects. I suspect that is not an accident.
+I'm drawn to the *why* behind circuits. Look closely and DC, AC and transient analysis, signals and control turn out to be one theory wearing different clothes: a single operator, read in different ways. The textbooks teach them as separate subjects. I suspect that is not an accident. I've also begun to wonder whether even nonlinear systems are linear operators in disguise, if you look at them from the right space. Functional analysis and operator theory are where I intend to find out.
 
 That theory points me toward **learning-based control**: systems that rewrite their own rules from data while remaining provably stable and safe. Classical control theory guarantees stability and robustness from a model; intelligent control learns the system when no model exists. Joining the two is how you let a machine improvise without the world noticing that anything has changed. Paradox, after all, only punishes what it can see.
 
