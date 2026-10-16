@@ -8,7 +8,7 @@ I'm drawn to the *why* behind circuits. Look closely and DC, AC and transient an
 
 That theory points me toward **learning-based control**: systems that rewrite their own rules from data while remaining provably stable and safe. Classical control theory guarantees stability and robustness from a model; intelligent control learns the system when no model exists. Joining the two is how you let a machine improvise without the world noticing that anything has changed. Paradox, after all, only punishes what it can see.
 
-My other path is hardware, where Forces are given a body. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips. Some would call these engineering problems. They are, mostly.
+My other path is hardware, where Forces are given a body. The two meet where I'd like to work: embedding the learning controller directly into analog and neuromorphic chips, circuits that learn the way nerves do on a sliver of power; and particle accelerators, where reinforcement learning and Bayesian optimization keep a beam stable while thousands of magnets must agree on a single path. Some would call these engineering problems. They are, mostly.
 
 **Currently**
 - Studying signals and systems, and probability and random variables (the Sphere of Entropy, though the syllabus calls it something else)
