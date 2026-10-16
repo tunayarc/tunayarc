@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:7c3aed&height=180&section=header&text=Tunay%20Ar%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20%C2%B7%20METU%20NCC%20%C2%B7%20Reality%20is%20negotiable&descSize=16&descAlignY=58" width="100%"/>
+  
+<img src="banner.svg" width="100%"/>
 
 </div>
 
@@ -51,6 +51,8 @@ Once an agent of Iteration X, now an Etherite: I left the Technocracy's perfect 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tunayarc/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunayarc04@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1a0b2e&height=110&section=footer&text=Beware%20of%20Paradox&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%"/>
+</div>
+
+<img src="footer.svg" width="100%"/>
 
 </div>
