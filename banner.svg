@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a0b2e"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 H1200 V168 C1010,198 860,150 640,172 C430,194 230,150 0,180 Z" fill="url(#g)"/>
+  <path d="M0,180 C230,150 430,194 640,172 C860,150 1010,198 1200,168 V186 C1010,214 860,170 640,192 C430,212 230,172 0,198 Z" fill="#7c3aed" opacity="0.25"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" fill="#ffffff" text-anchor="middle">
+    <text x="600" y="84" font-size="50" font-weight="700">Tunay Arıcı</text>
+    <text x="600" y="122" font-size="20" opacity="0.95">Electrical and Electronics Engineering · METU NCC</text>
+    <text x="600" y="152" font-size="17" font-style="italic" opacity="0.8">Reality is negotiable</text>
+  </g>
+</svg>
