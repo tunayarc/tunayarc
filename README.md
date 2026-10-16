@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:7c3aed&height=180&section=header&text=Tunay%20Ar%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20%C2%B7%20METU%20NCC%20%C2%B7%20Reality%20is%20a%20consensus&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:7c3aed&height=180&section=header&text=Tunay%20Ar%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20%C2%B7%20METU%20NCC%20%C2%B7%20Reality%20is%20negotiable&descSize=16&descAlignY=58" width="100%"/>
 
 </div>
 
 ### About Me
 
-I'm drawn to the *why* behind circuits. To me, one operator-based foundation is the true paradigm beneath DC, AC and transient analysis, signals and control: one procedure, run in different forms.
+I'm drawn to the *why* behind circuits. To me, one operator-based foundation is the true paradigm beneath DC, AC and transient analysis, signals and control: one theory, revealed in different forms.
 
-That paradigm points me toward **learning-based control**: systems that keep refining their own algorithms from data while remaining provably stable and safe. It joins two traditions, classical control theory, which guarantees stability and robustness from a model, and intelligent control, which learns the system when no model exists. Enlightened Science that adapts, without ever inviting Paradox.
+That paradigm points me toward **learning-based control**: systems that keep reshaping their own laws from data while remaining provably stable and safe. It joins two traditions, classical control theory, which guarantees stability and robustness from a model, and intelligent control, which learns the system when no model exists. Science that dares to improvise, without ever inviting Paradox.
 
-My other path is hardware, where Forces become physical machines. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
+My other path is hardware, the Sphere of Forces made physical. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
 
 **Currently**
-- Studying signals and systems, and probability and random variables (Entropy, by its scientific name)
+- Studying signals and systems, and probability and random variables (the Sphere of Entropy, essentially)
 - Building a Monte Carlo simulation project on probabilistic computing (p-bits)
 - Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory
 
@@ -40,11 +40,11 @@ My other path is hardware, where Forces become physical machines. The two meet w
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Outside the Construct
+### Outside the Laboratory
 
-When I'm off the clock, I'm rolling d10s in tabletop role-playing games, playing board games and video games, traveling, and hunting down good food and cocktails. At METU NCC, I'm part of the Fantastic Fiction Society, a small Chantry where fantasy and sci-fi fans gather, and where even a Technocrat is welcome.
+When I'm not chasing a theory, I'm rolling d10s in tabletop role-playing games, playing board games and video games, traveling, and hunting down good food and cocktails. At METU NCC, I'm part of the Fantastic Fiction Society, a small Chantry where fantasy and sci-fi fans gather.
 
-Iteration X by Convention, with deep respect for the Society of Ether: their wild science keeps asking the *why* that perfect machines tend to forget.
+Once an agent of Iteration X, now an Etherite: I left the Technocracy's perfect machines for a science that still asks *why*.
 
 <div align="center">
 
