@@ -13,7 +13,7 @@ That paradigm points me toward **learning-based control**: systems that keep rew
 My other path is hardware, the Sphere of Forces made physical. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
 
 **Currently**
-- Studying signals and systems, and probability and random variables
+- Studying signals and systems, and probability and random variables (the Sphere of Entropy, essentially)
 - Building a Monte Carlo simulation project on probabilistic computing (p-bits)
 - Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory
 
