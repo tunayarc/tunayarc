@@ -40,13 +40,6 @@ I'm equally drawn to hardware, and the two meet in places I'd like to work on: q
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tunayarc&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com/?user=tunayarc&theme=tokyonight&hide_border=true" height="160"/>
-
 </div>
 
 ### Beyond Engineering
