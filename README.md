@@ -6,11 +6,11 @@
 
 ### About Me
 
-I'm drawn to the *why* behind circuits: how one operator-based foundation ties together DC, AC and transient analysis, signals and control.
+I'm drawn to the *why* behind circuits. To me, one operator-based foundation is the true paradigm beneath DC, AC and transient analysis, signals and control: the same spell, cast in different forms.
 
-That foundation points me toward **learning-based control**: systems that keep learning from data while remaining provably stable and safe. It joins two legs, classical control theory, which guarantees stability and robustness from a model, and intelligent control, which learns the system when no model exists.
+That paradigm points me toward **learning-based control**: systems that keep rewriting their own spells from data while remaining provably stable and safe. It joins two traditions, classical control theory, which guarantees stability and robustness from a model, and intelligent control, which learns the system when no model exists. Magick that improvises, without ever inviting Paradox.
 
-I'm equally drawn to hardware, and the two meet in places I'd like to work on: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
+My other path is hardware, the Sphere of Forces made physical. The two meet where I'd like to work: quantum control, where qubit pulses are designed and calibrated by learning, and the safe power and thermal management of AI chips.
 
 **Currently**
 - Studying signals and systems, and probability and random variables
