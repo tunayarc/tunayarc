@@ -41,7 +41,7 @@ My other path is hardware, where Forces are given a body. The two meet where I'd
 
 **Problem Solving**<br>
 <a href="https://projecteuler.net">
-  <img src="https://projecteuler.net/profile/KULLANICI_ADIN.png" alt="Project Euler progress"/>
+  <img src="https://projecteuler.net/profile/tunayarc.png" alt="Project Euler progress"/>
 </a>
 
 ### Off the Record
