@@ -14,6 +14,7 @@ My other path is hardware, where Forces are given a body. The two meet where I'd
 - Studying signals and systems, and probability and random variables (the Sphere of Entropy, though the syllabus calls it something else)
 - Building a Monte Carlo simulation project on probabilistic computing (p-bits), where noise is not an error but a resource
 - Writing *Circuits and Systems*, a book on an operator-based approach to circuit theory, in plain sight
+- Working through [Project Euler](https://projecteuler.net) in C, where brute force is a first draft, not an answer
 
 ### Tools
 
@@ -37,6 +38,11 @@ My other path is hardware, where Forces are given a body. The two meet where I'd
 **Workflow**<br>
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Problem Solving**<br>
+<a href="https://projecteuler.net">
+  <img src="https://projecteuler.net/profile/KULLANICI_ADIN.png" alt="Project Euler progress"/>
+</a>
 
 ### Off the Record
 
